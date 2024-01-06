@@ -7,6 +7,7 @@ export const StyledTetrisWrapper = styled.div`
   height: 100vh;
   background: url(${bgImage}) #000;
   background-size: cover;
+  background-position: center center;
   overflow: hidden;
 `;
 
